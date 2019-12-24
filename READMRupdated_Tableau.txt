@@ -1,0 +1,13 @@
+Files Included :
+1) Tableau Basket Ball Project.ipynb : Contains links ,Intial and Final Project file, Summary , Design and Feedback
+2)Tableau Basket Ball Project.html : HTML file of Tableau Basket Ball Project.ipynb
+3) Basketball Excel file.
+4) This Readme document.
+
+Updated work :
+1) Project work converted into format : Summary , Design and Feedback.
+2) Reasons of selection of types of graphs and visual coding specified.
+3)Shorcut used for legends such as  HR, B,L,R is replaced by Homeruns, Blue , Left and Right.
+4) Heiht in inches and Weight in lbs. in labels is mentioned.
+5) I made sure that full name of legends is seen in the story.
+6) Text fields is used in Story, to convey appropriate message.
